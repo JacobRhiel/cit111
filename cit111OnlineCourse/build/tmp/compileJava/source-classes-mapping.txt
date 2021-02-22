@@ -1,3 +1,5 @@
+week4/UserInput.java
+ week4.UserInput
 week3/Variables.java
  week3.Variables
 week3/OperatorsChallenge.java
@@ -6,3 +8,13 @@ week3/Comparisons.java
  week3.Comparisons
 week3/RoadTrip.java
  week3.RoadTrip
+week4/UsernameAndPassword.java
+ week4.UsernameAndPassword
+week4/SpeedEnforcement.java
+ week4.SpeedEnforcement
+week4/RideHeight.java
+ week4.RideHeight
+week4/IfControl.java
+ week4.IfControl
+week4/GasExcersize.java
+ week4.GasExcersize
