@@ -1,8 +1,0 @@
-clientManagement/Registration.java
- clientManagement.Registration
-destinations/IdahoCanyons.java
- destinations.IdahoCanyons
-destinations/UtahRocks.java
- destinations.UtahRocks
-clientManagement/Confirmation.java
- clientManagement.Confirmation
