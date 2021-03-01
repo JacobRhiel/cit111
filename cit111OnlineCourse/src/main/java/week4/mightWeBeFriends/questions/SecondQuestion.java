@@ -3,32 +3,32 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package week3.mightWeBeFriends.questions;
+package week4.mightWeBeFriends.questions;
 
 /**
  * Boiler plate class of @see AbstractQuestion.
  * @author jacob
  */
-public class FirstQuestion extends AbstractQuestion {
+public class SecondQuestion extends AbstractQuestion {
 
     @Override
     public int identifier() {
-        return 1;
+        return 2;
     }
 
     @Override
     public String askQuestion() {
-        return "Do you enjoy technical projects? Please enter 0 for true and 1 for false. (0 - yes, 1 - no)";
+        return "Do you enjoy weightlifting? Please enter 0 for true and 1 for false. (0 - yes, 1 - no)";
     }
 
     @Override
     public String agreeResponse() {
-        return "Great! That's one thing in common!";
+        return "Sweet, no pain no gainz!";
     }
 
     @Override
     public String disagreeResponse() {
-        return "That's odd, moving on..";
+        return "No lifting, let me guess.. crossfit?";
     }
 
     @Override

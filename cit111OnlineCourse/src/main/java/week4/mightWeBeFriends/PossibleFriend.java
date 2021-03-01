@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package week3.mightWeBeFriends;
+package week4.mightWeBeFriends;
 
 import java.util.Set;
-import week3.mightWeBeFriends.questions.AbstractQuestion;
-import week3.mightWeBeFriends.questions.WeightedListQuestion;
+import week4.mightWeBeFriends.questions.AbstractQuestion;
+import week4.mightWeBeFriends.questions.WeightedListQuestion;
 
 /**
  * A possible friend object.

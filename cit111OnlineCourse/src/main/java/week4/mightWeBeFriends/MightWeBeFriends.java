@@ -3,17 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package week3.mightWeBeFriends;
+package week4.mightWeBeFriends;
 
 import java.util.Iterator;
 import java.util.Scanner;
 import java.util.SortedSet;
 import java.util.TreeSet;
-import week3.mightWeBeFriends.questions.FirstQuestion;
-import week3.mightWeBeFriends.questions.AbstractQuestion;
-import week3.mightWeBeFriends.questions.FourthListQuestion;
-import week3.mightWeBeFriends.questions.SecondQuestion;
-import week3.mightWeBeFriends.questions.ThirdQuestion;
+import week4.mightWeBeFriends.questions.FirstQuestion;
+import week4.mightWeBeFriends.questions.AbstractQuestion;
+import week4.mightWeBeFriends.questions.FourthListQuestion;
+import week4.mightWeBeFriends.questions.SecondQuestion;
+import week4.mightWeBeFriends.questions.ThirdQuestion;
 
 /**
  *  Might we be friends assignment, takes input for questions and displays the output.

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package week3.mightWeBeFriends.questions;
+package week4.mightWeBeFriends.questions;
 
 /**
  * Creates a weighted list of question.
