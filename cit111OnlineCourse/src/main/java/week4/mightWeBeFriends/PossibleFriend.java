@@ -153,13 +153,15 @@ public class PossibleFriend {
     
     @Override
     public String toString() {
-        return new StringBuilder().append("Well, ")
+        String cannotBeFriends = "As the folks in Letterkenny would say.. Hard no.";
+        StringBuilder builder = new StringBuilder().append("Well, ")
                 .append(firstName)
-                .append(String.format(" based on your compatability score of %d. ", this.compatabilityScore))
-                .append("It looks like we ")
-                .append(canBeFriends() ? "can" : "cannot")
-                .append(" be friends.")
-                .toString();
+                .append(String.format(" based on your compatability score of %d. ", this.compatabilityScore));
+        if(canBeFriends())
+            builder.append("It looks like we can be friends afterall! ");
+        else
+            builder.append(cannotBeFriends);
+        return builder.toString();
     }
     
 }
